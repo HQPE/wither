@@ -1,0 +1,112 @@
+/* background */
+*{
+    margin: 0;
+    padding: 0;
+}
+.background-image{
+    background-image: url("/img/4011080.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.background-image2{
+    background-image: url("/img/The\ Witcher\ 3\ Screenshot\ 2021.09.08\ -\ 17.22.29.30.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.background-image3{
+    background-image: url("/img/3131290.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.background-image4{
+    background-image: url("/img/2413551\ \(1\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.background-image5{
+    background-image: url("/img/3436965.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.background-image6{
+    background-image: url("/img/Image-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/*3.page top */
+.container{
+    width: 590px;
+    height: 1050px;
+    border: 1px solid red;
+    margin-left: 1400px;
+    background-color: black;
+}
+.griffin2{
+    padding: 10px;
+    margin: 10px;
+    color: red;
+    font-size: 25px;
+
+}
+.griffin{
+    color: red;
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+    margin: 5px;
+    color: red;
+}
+/*4.page container  */
+
+.container2{
+width: 2100px;
+height: 1000px;
+border: 1px solid red;
+margin: 0 auto;
+position: relative;
+top: 350px;
+}
+
+.col{
+width: 448px;
+height: 400px;    
+border: 1px solid red;
+padding: 20px;
+margin: 1px;
+float: left;
+margin-left: 300px;
+background-color: black;
+}
+.text{
+padding: 10px;
+margin: 10px;
+color: red;
+font-size: 25px;
+}
+
+
+
+
+.col2{
+    width: 448px;
+    height: 800px;    
+    border: 1px solid blue;
+    padding: 20px;
+    margin: 1px;
+    float: left;
+
+}
+.col3{
+    width: 448px;
+    height: 400px;    
+    border: 1px solid blue;
+    padding: 20px;
+    margin: 1px;
+    float: left;
+}
