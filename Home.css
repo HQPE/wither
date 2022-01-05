@@ -1,0 +1,358 @@
+ .u-section-1 {
+  background-image: url("images/TheWitcher3Screenshot2021.09.08-17.21.21.74.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 38px auto 0 95px;
+}
+
+.u-section-1 .u-text-2 {
+  text-align: left;
+  font-size: 1.5rem;
+  margin: -24px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-align: left;
+  font-size: 1.25rem;
+  margin: -26px 41px 60px auto;
+} .u-section-2 {
+  background-image: url("images/3131290.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1018px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 309px;
+  min-height: 614px;
+  margin: 1px 374px 0 auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 265px auto 0 9px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 309px;
+  height: 269px;
+  margin: -614px 374px 0 auto;
+}
+
+.u-section-2 .u-image-2 {
+  height: 414px;
+  width: 309px;
+  margin: 345px 65px 1px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 839px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 643px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 482px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-right: 231px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: 231px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-right: 31px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: 31px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-right: 31px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/black-background-1468370534d5s.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-3 .u-group-1 {
+  width: 308px;
+  min-height: 537px;
+  height: auto;
+  margin: 1px 65px 0 auto;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 15px 7px 0;
+}
+
+.u-section-3 .u-shape-1 {
+  width: 308px;
+  height: 614px;
+  margin: -449px 373px 0 auto;
+}
+
+.u-section-3 .u-image-1 {
+  width: 308px;
+  height: 614px;
+  margin: -614px 373px 0 auto;
+}
+
+.u-section-3 .u-group-2 {
+  width: 308px;
+  min-height: 307px;
+  margin: -614px auto 0 151px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-3 .u-group-3 {
+  width: 308px;
+  min-height: 307px;
+  height: auto;
+  margin: 0 auto 0 151px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 3.75rem;
+  margin: 52px 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  width: 308px;
+  min-height: 307px;
+  background-image: url("images/the_witcher_3__wild_hunt_logo__original_sticker__by_kejo13_d7tjk8e-fullview.jpg");
+  height: auto;
+  margin: 0 auto 0 151px;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-3 {
+  width: 411px;
+  height: 607px;
+  margin: -707px 321px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-image-3 {
+    margin-right: 309px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-shape-1 {
+    margin-right: 232px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-right: 232px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-right: 129px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-group-1 {
+    margin-right: 32px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-right: 32px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-right: 32px;
+  }
+
+  .u-section-3 .u-group-2 {
+    margin-left: 32px;
+  }
+
+  .u-section-3 .u-group-3 {
+    margin-left: 32px;
+  }
+
+  .u-section-3 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-left: 32px;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 340px;
+    height: 502px;
+    margin-right: 0;
+  }
+} .u-section-4 {
+  background-image: url("images/3436965.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 1067px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 880px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 674px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 319px;
+  }
+} .u-section-5 {
+  background-image: url("images/witcher3_en_wallpaper_wallpaper_6_1920x1080_1433245877.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 722px;
+}
+
+.u-section-5 .u-social-icons-1 {
+  height: 71px;
+  min-height: 16px;
+  width: 234px;
+  min-width: 68px;
+  margin: 411px 17px 60px auto;
+}
+
+.u-section-5 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-5 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-5 .u-icon-3 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 595px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 456px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 342px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 215px;
+  }
+}
